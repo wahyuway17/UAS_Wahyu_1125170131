@@ -7,7 +7,7 @@
 ![Register](images/Register.png)
 
 ### Home
-![Home](images/Home.png)
+![Home](images/Home.jpeg)
 
 ### Detail Product
 ![Detail](images/Detail.png)
