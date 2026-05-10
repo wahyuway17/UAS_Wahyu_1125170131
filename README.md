@@ -1,16 +1,22 @@
 # shopping_tangerang
 
-A new Flutter project.
+### Login
+![Login](images/Login.png)
 
-## Getting Started
+### Register
+![Register](images/Register.png)
 
-This project is a starting point for a Flutter application.
+### Home
+![Home](images/Home.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Detail Product
+![Detail](images/Detail.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Cart
+![Cart](images/Cart.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Checkout
+![Checkout](images/Checkout.png)
+
+### Account
+![Checkout](images/Akun.png)
