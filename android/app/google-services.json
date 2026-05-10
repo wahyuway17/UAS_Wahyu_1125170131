@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "592044899006",
+    "project_id": "latihan-1-6427c",
+    "storage_bucket": "latihan-1-6427c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592044899006:android:c933b66caef09087a37cef",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3UCof_nnwe5DzaXGig_UDaTWx_oCL7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592044899006:android:68edc93375f4d7c8a37cef",
+        "android_client_info": {
+          "package_name": "com.example.shopping_tangerang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ3UCof_nnwe5DzaXGig_UDaTWx_oCL7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
